@@ -30,7 +30,6 @@ github_username:  joshelser
 theme: jekyll-theme-midnight
 plugins:
 - jekyll-feed
-- jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,6 +50,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-paginate: 5
-paginate_path: "/posts/page:num/"
